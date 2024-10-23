@@ -22,7 +22,7 @@ A simple React application to manage user accounts with login and registration f
 5. Start the application: `npm start`
 
 ## Live Demo
-You can access the live demo of the application here: [Account Manager on Vercel](https://your-vercel-app-link.com)  <!-- Replace with your actual Vercel app link -->
+You can access the live demo of the application here: [Account Manager on Vercel](https://account-manager-ruddy.vercel.app/)  <!-- Replace with your actual Vercel app link -->
 
 ## License
 This project is licensed under the MIT License.
